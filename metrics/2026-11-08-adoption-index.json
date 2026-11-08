@@ -1,0 +1,55 @@
+{
+  "snapshot_date": "2026-11-08",
+  "source": "Open-source adoption index: nightly mirror of upstream popularity signals (contributors, dependent projects, weekly clones).",
+  "repositories": [
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-gated-sequence-toolkit",
+      "adoption_score": 520,
+      "contributors": 63,
+      "dependent_projects": 88,
+      "weekly_clones": 2740
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-attention",
+      "adoption_score": 380,
+      "contributors": 41,
+      "dependent_projects": 52,
+      "weekly_clones": 1985
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-official",
+      "adoption_score": 240,
+      "contributors": 27,
+      "dependent_projects": 31,
+      "weekly_clones": 1120
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-torch",
+      "adoption_score": 120,
+      "contributors": 14,
+      "dependent_projects": 9,
+      "weekly_clones": 486
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-jax",
+      "adoption_score": 58,
+      "contributors": 6,
+      "dependent_projects": 3,
+      "weekly_clones": 201
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-minimal",
+      "adoption_score": 24,
+      "contributors": 2,
+      "dependent_projects": 1,
+      "weekly_clones": 77
+    },
+    {
+      "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-notes",
+      "adoption_score": 15,
+      "contributors": 1,
+      "dependent_projects": 0,
+      "weekly_clones": 12
+    }
+  ]
+}
