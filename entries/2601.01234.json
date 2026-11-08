@@ -1,8 +1,0 @@
-{
-  "paper_id": "2601.01234",
-  "paper_title": "Sparse-Gated Recurrent Kernels for Long-Horizon Sequence Modeling",
-  "chosen_url": "https://github.com/knobbyintens/gfp1610-q4m8v2-sgrk-torch",
-  "repo_full_name": "knobbyintens/gfp1610-q4m8v2-sgrk-torch",
-  "verified": true,
-  "verification_note": "README cites the exact paper title and preprint identifier and the repository contains implementation code"
-}
